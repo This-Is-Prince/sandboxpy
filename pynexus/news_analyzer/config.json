@@ -1,0 +1,5 @@
+{
+    "url": "https://www.bbc.com/news",
+    "output_csv_file": "headlines.csv",
+    "output_report_file": "report.txt"
+}

@@ -1,0 +1,22 @@
+--- Top 20 Most Common Words in Headlines ---
+
+are: 9
+from: 8
+says: 8
+draw: 7
+s: 7
+at: 7
+india: 6
+why: 6
+trump: 6
+uk: 6
+underdogs: 4
+equals: 4
+how: 4
+forced: 4
+england: 4
+test: 4
+series: 4
+sex: 4
+toys: 4
+being: 4
